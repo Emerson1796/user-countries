@@ -19,13 +19,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 
 ## Funcionamento
-##### * Acessar através da linha de comando a pasta backend:
+##### - Acessar através da linha de comando a pasta backend:
 ######  Executar npm install.
 
-##### * Executar os códigos:
+##### - Executar os códigos:
 ###### npm run serverCountries; 
 ###### npm run serverUsers.
 
-##### * Abrir o arquivo [index.html](https://github.com/Emerson1796/user-countries/blob/master/frontend/index.html)
+##### - Abrir o arquivo [index.html](https://github.com/Emerson1796/user-countries/blob/master/frontend/index.html)
 
-##### * por fim estará disponível a tela inicial da Aplicação.
+##### - Por fim estará disponível a tela inicial da Aplicação.
